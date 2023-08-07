@@ -87,15 +87,15 @@ More informations on my website: **[yvanallioux.fr](https://yvanallioux.fr/)**
 # 📭 Contact
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/angel-uriot/">
+	<a href="https://www.linkedin.com/in/yvan-allioux/">
 		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
-	<a href="https://twitter.com/DIMENSION_YT">
+	<a href="https://twitter.com/yvanallioux">
 		<img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
-	<a href="mailto:angel.uriot@gmail.com">
+	<a href="mailto:yvan.allioux.pro@gmail.com">
 		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
 	<span>&nbsp;</span>
