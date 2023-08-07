@@ -1,12 +1,3 @@
-# 👦 About me
-
-hey ! French developer with a passion for IT <3
-
-More informations on my website: **[yvanallioux.fr](https://yvanallioux.fr/)**
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yvan-allioux&label=Profile%20views&color=0e75b6&style=flat" alt="yvan-allioux" /> </p>
-
-<br>
 
 # 📚 Skills
 
@@ -84,34 +75,3 @@ More informations on my website: **[yvanallioux.fr](https://yvanallioux.fr/)**
 <br>
 
 
-# 📭 Contact
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/angel-uriot/">
-		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-	</a>
-	<span>&nbsp;</span>
-	<a href="https://twitter.com/DIMENSION_YT">
-		<img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-	</a>
-	<span>&nbsp;</span>
-	<a href="mailto:angel.uriot@gmail.com">
-		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
-	<span>&nbsp;</span>
-	<a href="https://yvanallioux.fr/">
-		<img src="https://img.shields.io/badge/-yvanallioux.fr-000000?style=for-the-badge&logo=bootstrap&logoColor=white">
-	</a>
-</p>
-
-<br>
-
-# Github Stats & Top Langs
-
-<div align="center">
-<img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvan-allioux&layout=compact" />
-
-<img height="220px" src="https://github-readme-stats.vercel.app/api?username=yvan-allioux&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</div>
-
-<br>
