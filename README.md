@@ -1,10 +1,16 @@
 # 👦 About me
 
-hey ! French developer with a passion for IT <3
+hey! French developer with a passion for IT and lots of other things :)
 
-More informations on my website: **[yvanallioux.fr](https://yvanallioux.fr/)**
+Welcome to my GitHub, I'm posting some projects here 
+
+<p align="center">
+    <a href="https://github.com/yvan-allioux"><img src="./Github.png" alt="art by https://github.com/SAWARATSUKI" height="300"/></a>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yvan-allioux&label=Profile%20views&color=0e75b6&style=flat" alt="yvan-allioux" /> </p>
+
+More informations on my website: **[yvanallioux.fr](https://yvanallioux.fr/)**
 
 <br>
 
